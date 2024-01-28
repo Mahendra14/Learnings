@@ -1,2 +1,3 @@
-# NextLearnings
-A repository to store all my learnings
+# Learnings
+A repository to store all my learnings:
+- NextJS
